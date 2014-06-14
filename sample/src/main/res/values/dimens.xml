@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="sample__horizontal_margin">16dp</dimen>
+    <dimen name="sample__vertical_margin">16dp</dimen>
+    <dimen name="sample__pager_indicator_height">48dp</dimen>
+</resources>

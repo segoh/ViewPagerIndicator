@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewPagerIndicator Sample App</string>
+
+    <string-array name="titles">
+        <item>The Late Philip J. Fry</item>
+        <item>Devil\'s Hands are Idle Playthings</item>
+        <item>Hell Is Other Robots</item>
+        <item>I Second That Emotion</item>
+        <item>War Is the H-Word</item>
+    </string-array>
+
+    <string-array name="texts">
+        <item>Noooooo! Bite my shiny metal ass. And from now on you\'re all named Bender Jr. Tell her you just want to talk. It has nothing to do with mating. Yes, I saw. You were doing well, until everyone died.</item>
+        <item>Too much work. Let\'s burn it and say we dumped it in the sewer. Oh God, what have I done? In our darkest hour, we can stand erect, with proud upthrust bosoms. OK, this has gotta stop. I\'m going to remind Fry of his humanity the way only a woman can.</item>
+        <item>Who said that? SURE you can die! You want to die?! I\'ll tell them you went down prying the wedding ring off his cold, dead finger. Yeah, and if you were the pope they\'d be all, "Straighten your pope hat." And "Put on your good vestments." Interesting. No, wait, the other thing: tedious.</item>
+        <item>OK, if everyone\'s finished being stupid. Yes, I saw. You were doing well, until everyone died. Wow, you got that off the Internet? In my day, the Internet was only used to download pornography. And why did \'I\' have to take a cab? Oh, how awful. Did he at least die painlessly? …To shreds, you say. Well, how is his wife holding up? …To shreds, you say. OK, this has gotta stop. I\'m going to remind Fry of his humanity the way only a woman can. And why did \'I\' have to take a cab? In your time, yes, but nowadays shut up! Besides, these are adult stemcells, harvested from perfectly healthy adults whom I killed for their stemcells.</item>
+        <item>Goodbye, friends. I never thought I\'d die like this. But I always really hoped. Dear God, they\'ll be killed on our doorstep! And there\'s no trash pickup until January 3rd. We\'re rescuing ya. Tell them I hate them.</item>
+    </string-array>
+
+</resources>
